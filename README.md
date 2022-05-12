@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gamerspike11
+- 👀 I’m interested in Minecraft Plugins
+- 🌱 I’m currently learning Java
