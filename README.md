@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Gamerspike11
-- 👀 I’m interested in Minecraft Plugins
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Website Development.
+- 🌱 I’m currently learning HTML, CSS; JavaScript
