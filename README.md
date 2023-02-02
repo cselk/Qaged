@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Gamerspike11
-- 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning HTML, CSS; JavaScript
+- 👋 Hi, I'm @Gamerspike11
+- 👀 I'm interested in web front-end development.
+- 🌱 I'm currently learning React.js, my first project with it is my simple password generator.
+- 🛠️ Now I'm working on a simple to-do list.
