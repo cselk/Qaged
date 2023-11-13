@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @Gamerspike11
-- 👀 I'm interested in web front-end development.
-- 🌱 I'm currently learning React.js, my first project with it is my simple password generator.
-- 🛠️ Now I'm working on a simple to-do list.
+- 👀 I'm interested in web front-end development and minecraft plugin creation(java).
+- 🌱 I'm currently learning React.js.
+- 🛠️ Now I'm working on a to-do-list like app and minecraft plugins.
